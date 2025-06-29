@@ -5,6 +5,8 @@
   |============================
 */
 /* Common styles */
+
+
 @import url('./reset.css');
 @import url('./base.css');
 body {
@@ -43,7 +45,7 @@ button {
    border-radius: 8px;
    padding: 8px 16px;
    height: 40px;
-   font-family: 'e-Ukraine', sans-serif;
+   font-family: 'Montserrat', sans-serif;
    font-weight: 500;
    font-size: 16px;
    line-height: 150%;
@@ -120,3 +122,4 @@ button:hover {
   margin-top: 32px;
   margin-bottom: 44px;
 }
+
