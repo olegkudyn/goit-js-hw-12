@@ -115,3 +115,8 @@ button:hover {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
+
+.load-more-btn {
+  margin-top: 32px;
+  margin-bottom: 44px;
+}
